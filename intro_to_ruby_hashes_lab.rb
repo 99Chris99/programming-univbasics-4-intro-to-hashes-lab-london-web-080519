@@ -49,5 +49,3 @@ return hash[key]
   end
 
 end
-
-
